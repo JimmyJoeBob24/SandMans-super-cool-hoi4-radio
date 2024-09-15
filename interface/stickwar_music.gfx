@@ -1,0 +1,7 @@
+spriteTypes = {
+	spriteType = {
+		name = "GFX_sandman"
+		textureFile = "gfx/stickwar.dds"
+		noOfFrames = 2
+	}
+}

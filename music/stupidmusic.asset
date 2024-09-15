@@ -1,0 +1,12 @@
+music = {
+	name = "We_Are_The_Houtis"
+	file = "Houtis.ogg"
+}
+music = {
+	name = "Family_Guy"
+	file = "menus.ogg"
+}
+music = {
+	name = "Joeys_Song"
+	file = "joeys_song.ogg"
+}

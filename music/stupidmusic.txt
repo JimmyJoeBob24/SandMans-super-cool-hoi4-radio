@@ -1,0 +1,27 @@
+music_station = "randomshit_station"
+music = {
+	song = "We_Are_The_Houtis"
+	chance = {
+		modifier = {
+			factor = 3
+		}
+	}
+}
+music_station = "randomshit_station"
+music = {
+	song = "Family_Guy"
+	chance = {
+		modifier = {
+			factor = 3
+		}
+	}
+}
+music_station = "randomshit_station"
+music = {
+	song = "Joeys_Song"
+	chance = {
+		modifier = {
+			factor = 3
+		}
+	}
+}
